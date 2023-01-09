@@ -1,2 +1,3 @@
 file 1
 new data
+new data 2
